@@ -5,10 +5,14 @@
  
  
 
-![main1](./image/KakaoTalk_20180606_133449476.jpg){: width="50" height="50"}
+![main1](./image/KakaoTalk_20180606_133449476.jpg)
+  
 ![main1](./image/KakaoTalk_20180606_133450197.jpg)
+  
 ![main1](./image/KakaoTalk_20180606_133450900)
+  
 ![main1](./image/KakaoTalk_20180606_180251293)
+  
   
 ![usecase](./image/캡스톤usecase.jpg)
 ## 프로젝트 소개
